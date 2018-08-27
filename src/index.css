@@ -4,4 +4,5 @@ body {
   font-family: sans-serif;
   color: #00512A;
   background: linear-gradient(to right, rgb(16, 195, 109), rgb(33, 255, 214));
+  background-attachment: fixed;
 }
